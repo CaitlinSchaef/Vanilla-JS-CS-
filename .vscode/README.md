@@ -1,1 +1,1 @@
-Good ol' readme
+Use this template to complete the blog assignment. 
